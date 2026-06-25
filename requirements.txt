@@ -1,0 +1,2 @@
+# pyperclip używane jest opcjonalnie do kopiowania do schowka; 
+pyperclip>=1.8.0

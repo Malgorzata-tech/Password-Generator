@@ -1,0 +1,16 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (jeśli używasz)
+venv/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
