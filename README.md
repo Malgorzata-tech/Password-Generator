@@ -3,6 +3,7 @@
 Prosty generator haseł w Pythonie.
 
 Przykłady użycia komend, w zależności od pożądanych warunków jakie ma spełniać wygenerowane hasło:
+	
 	python main.py	//opcja domyślna do generowania hasła o długości 12 znaków, zawierającego wielkie i małe litery, cyfry oraz symbole
 	
 	python main.py --length 16
